@@ -39,7 +39,3 @@ Below is a screenshot of the To-Do List application:
 - **Background Image**: The background image used in this project was sourced from [Pixels](https://www.pexels.com/).
 - **Design Inspiration**: The design layout was inspired by [LearnTime](https://www.learn-time.com/).
 - **Color Palette**: The color scheme was generated using [Coolors](https://coolors.co/).
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
